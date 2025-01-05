@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="id">ID</string>
+    <string name="year">Year</string>
+    <string name="form">Form</string>
+</resources>
